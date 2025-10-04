@@ -4,6 +4,9 @@ Flutter Product & Cart App
 
 A Flutter application demonstrating a Product Listing, Product Details, and Cart functionality with Bloc state management and API integration using http. This project was created as a machine test.
 
+Screenshots attached:
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
