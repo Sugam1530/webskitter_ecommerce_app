@@ -6,6 +6,11 @@ A Flutter application demonstrating a Product Listing, Product Details, and Cart
 
 Screenshots attached:
 
+![image alt](https://raw.githubusercontent.com/Sugam1530/webskitter_ecommerce_app/refs/heads/main/WhatsApp%20Image%202025-10-04%20at%208.27.32%20PM.jpeg)
+
+![image alt](https://raw.githubusercontent.com/Sugam1530/webskitter_ecommerce_app/refs/heads/main/WhatsApp%20Image%202025-10-04%20at%208.27.31%20PM%20(1).jpeg)
+
+![image alt](https://raw.githubusercontent.com/Sugam1530/webskitter_ecommerce_app/c8d70ba65333ad584419a578a0342ebaa21feb68/WhatsApp%20Image%202025-10-04%20at%208.27.31%20PM.jpeg)
 
 ## Getting Started
 
